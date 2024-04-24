@@ -1,0 +1,25 @@
+{
+  "name": "bjgttoken-generator-1",
+  "version": "0.0.1",
+  "description": "bjgttoken generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngfor9/bjgttoken-generator-1.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "youngfor9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youngfor9/bjgttoken-generator-1/issues"
+  },
+  "homepage": "https://github.com/youngfor9/bjgttoken-generator-1#readme",
+  "dependencies": {
+    "tea-datetime-generator": "^1.0.1"
+  }
+}
